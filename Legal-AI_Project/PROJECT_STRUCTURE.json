@@ -1,0 +1,38 @@
+{
+  "project_structure": {
+    "flask_server": {
+      "core_files": [
+        "app_optimized.py - Main optimized Flask application",
+        "predict.py - ML prediction logic",
+        "paraphrase.py - Text paraphrasing",
+        "requirements_optimized.txt - Updated dependencies"
+      ],
+      "data": [
+        "questions_short.txt - Predefined questions",
+        "contract samples - Test documents"
+      ]
+    },
+    "web_app": {
+      "core_files": [
+        "pages/dashboard_optimized.tsx - Enhanced dashboard",
+        "pages/_app.tsx - App configuration",
+        "pages/index.tsx - Landing page"
+      ],
+      "components": [
+        "navbar.tsx - Navigation",
+        "footer.tsx - Footer component",
+        "access-denied.tsx - Auth component"
+      ]
+    }
+  },
+  "optimizations": [
+    "PyMuPDF for robust PDF text extraction",
+    "Efficient model loading with caching",
+    "User-defined questions with validation",
+    "Search functionality for predefined questions",
+    "Better error handling and logging",
+    "Sentiment analysis for answers",
+    "Paraphrasing for better understanding",
+    "Responsive UI with loading states"
+  ]
+}

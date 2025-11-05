@@ -1,0 +1,11 @@
+flask==3.1.1
+flask-cors==6.0.0
+textblob==0.19.0
+PyMuPDF==1.24.10
+torch>=2.0.0
+transformers>=4.35.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+sentencepiece>=0.1.99
+accelerate>=0.20.0
+datasets>=2.14.0
