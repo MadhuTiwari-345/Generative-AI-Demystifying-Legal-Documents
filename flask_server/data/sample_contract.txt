@@ -1,0 +1,36 @@
+LEGAL CONTRACT AGREEMENT
+
+This Agreement is made and entered into on January 15, 2024, by and between:
+
+ABC Corporation, a Delaware corporation with its principal place of business at 123 Business Street, New York, NY 10001 (hereinafter referred to as "Company"),
+
+and
+
+John Smith, an individual residing at 456 Personal Avenue, Los Angeles, CA 90210 (hereinafter referred to as "Contractor").
+
+WHEREAS, Company desires to engage Contractor to provide consulting services, and Contractor desires to provide such services under the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the parties agree as follows:
+
+1. SERVICES: Contractor shall provide consulting services related to software development and project management.
+
+2. COMPENSATION: Company shall pay Contractor $100 per hour for services rendered.
+
+3. TERM: This Agreement shall commence on the date first written above and continue for a period of 12 months unless terminated earlier.
+
+4. GOVERNING LAW: This Agreement shall be governed by and construed in accordance with the laws of the State of New York.
+
+5. TERMINATION: Either party may terminate this Agreement with 30 days written notice.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+ABC Corporation
+
+By: ___________________________
+Name: Jane Doe
+Title: CEO
+
+Contractor
+
+___________________________
+John Smith
