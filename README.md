@@ -42,7 +42,7 @@ This project is **not a replacement for lawyers**, but a **decision-support and 
 
 
 
-## ✨ Key Features (Detailed)
+## ✨ Key Features 
 
 ### 1️⃣ Plain-Language Summarization
 
