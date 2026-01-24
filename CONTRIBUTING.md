@@ -77,10 +77,8 @@ Be respectful, inclusive, and constructive.
 Harassment or abusive behavior will not be tolerated.
 
 
-
 Thanks for helping make legal understanding accessible to everyone 💙
 
-````
 
 
 
