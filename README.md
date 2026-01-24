@@ -139,6 +139,18 @@ Plain-Language Output + Q&A
 │ Summary + Insights  │
 └─────────────────────┘
 
+🔹 Mermaid Diagram
+
+flowchart TD
+    A[User Uploads Legal Document] --> B[Text Preprocessing & Cleaning]
+    B --> C[Semantic Chunking]
+    C --> D[Generative AI / LLM]
+    D --> E[Clause Extraction]
+    D --> F[Plain Language Summary]
+    E --> G[Clause Explanation]
+    F --> H[User Interface]
+    G --> H
+    H --> I[Context-Aware Q&A]
 
 
 ## 🛠 Tech Stack
