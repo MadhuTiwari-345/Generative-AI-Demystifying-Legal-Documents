@@ -2,6 +2,8 @@
 
 # 🧠 Generative AI: Demystifying Legal Documents
 
+
+
 ## Making Legal Language Understandable for Everyone
 
 Legal documents are often written in complex, jargon-heavy language that is difficult for non-experts to understand. This project leverages **Generative AI and Natural Language Processing (NLP)** to transform dense legal text into **clear, concise, and human-readable explanations**, empowering users to understand their rights, obligations, and risks without needing legal expertise.
