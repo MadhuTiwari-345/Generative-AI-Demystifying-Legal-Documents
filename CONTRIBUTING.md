@@ -1,10 +1,10 @@
-# 📄 CONTRIBUTING.md
 
 # Contributing to Generative-AI-Demystifying-Legal-Documents
 
 Thank you for considering contributing to this project! 🎉  
 Contributions of all kinds — code, documentation, ideas, and bug reports — are welcome.
 
+---
 
 ## 📌 How to Contribute
 
@@ -42,13 +42,15 @@ git commit -m "Add: meaningful description of your change"
 git push origin feature/your-feature-name
 ```
 
+---
+
 Open a PR with:
 
 * Clear title
 * Description of changes
 * Screenshots or logs (if applicable)
 
-
+---
 
 ## 🧪 Testing
 
@@ -56,7 +58,7 @@ Open a PR with:
 * Add tests where possible
 * Verify AI outputs are context-aware
 
-
+---
 
 ## 🧠 Areas to Contribute
 
@@ -67,13 +69,14 @@ Open a PR with:
 * Documentation & examples
 * Performance optimization
 
-
+---
 
 ## ⚖ Code of Conduct
 
 Be respectful, inclusive, and constructive.
 Harassment or abusive behavior will not be tolerated.
 
+---
 
 Thanks for helping make legal understanding accessible to everyone 💙
 
