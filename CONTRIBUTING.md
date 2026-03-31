@@ -1,8 +1,5 @@
-
-
 # 📄 CONTRIBUTING.md
 
-````markdown
 # Contributing to Generative-AI-Demystifying-Legal-Documents
 
 Thank you for considering contributing to this project! 🎉  
@@ -15,6 +12,7 @@ Contributions of all kinds — code, documentation, ideas, and bug reports — a
 Click the **Fork** button on the top-right of the repository page.
 
 ### 2️⃣ Clone Your Fork
+
 ```bash
 git clone https://github.com/<your-username>/Generative-AI-Demistifying-Legal-Documents.git
 cd Generative-AI-Demistifying-Legal-Documents
